@@ -1,0 +1,7 @@
+{
+  "name": "splashJusMovil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
