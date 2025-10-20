@@ -14,7 +14,16 @@ paso 7: luego ejectuamos el comando npx cap add android nos generara otra carpet
 <img width="259" height="193" alt="image" src="https://github.com/user-attachments/assets/f072fffe-d1ec-4cf9-a5e3-c4128d25e703" />
 paso 8: ingresamos a la pagina "Splash Screens and Icons", que nos dara el codigo de instalacion
 <img width="828" height="284" alt="image" src="https://github.com/user-attachments/assets/adfd7638-ff23-4d93-b8a9-ce990dc9983a" />
-paso 9: Tenemos listo nuestro icono y nuestro Splash sccreen, y los llamamos tal cual como esta en la imagen
+paso 9: Tenemos listo nuestro icono y nuestro Splash sccreen, y los llamamos tal cual como esta en la imagen deben tener los sigueintes rquisitos:
+* Los archivos de iconos deben tener al menos 1024pxx 1024px.
+* Los archivos de pantalla de presentación deben tener al menos 2732pxx 2732px.
+* El formato puede ser jpgo png.
 <img width="288" height="125" alt="image" src="https://github.com/user-attachments/assets/2ec3cba8-9c94-4b2f-b057-6a1ec438a4c9" />
-paso 10:
+paso 10: ejecutamos el comando "npx cap open android" para probarlo en  adnroid studio
+<img width="1909" height="1016" alt="image" src="https://github.com/user-attachments/assets/f2699a52-0f0e-4e4b-9d5a-4eee289a83f8" />
+paso 11: y generamos el apk
+<img width="510" height="121" alt="image" src="https://github.com/user-attachments/assets/18bb25ae-3046-4675-bb32-56cdbf4cefa1" />
+paso 12: finalmente probamos en nuestros dispositoivos
+<img width="1080" height="961" alt="image" src="https://github.com/user-attachments/assets/b904ac03-610a-45a0-bd5f-7b7a90829b5b" />
+<img width="709" height="1600" alt="image" src="https://github.com/user-attachments/assets/c3bf7539-7947-4f44-8975-7f8026256222" />
 
