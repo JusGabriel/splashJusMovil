@@ -14,6 +14,7 @@ paso 7: luego ejectuamos el comando npx cap add android nos generara otra carpet
 <img width="259" height="193" alt="image" src="https://github.com/user-attachments/assets/f072fffe-d1ec-4cf9-a5e3-c4128d25e703" />
 paso 8: ingresamos a la pagina "Splash Screens and Icons", que nos dara el codigo de instalacion
 <img width="828" height="284" alt="image" src="https://github.com/user-attachments/assets/adfd7638-ff23-4d93-b8a9-ce990dc9983a" />
-paso 9:
-
+paso 9: Tenemos listo nuestro icono y nuestro Splash sccreen, y los llamamos tal cual como esta en la imagen
+<img width="288" height="125" alt="image" src="https://github.com/user-attachments/assets/2ec3cba8-9c94-4b2f-b057-6a1ec438a4c9" />
+paso 10:
 
