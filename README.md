@@ -8,8 +8,12 @@ paso 4: Llamar a nuestro splash screen copiamos el codigo que nos porporciona la
 <img width="580" height="448" alt="image" src="https://github.com/user-attachments/assets/9a46f6eb-2494-4e19-8e3b-fdd422cc38b9" />
 paso 5: Ejecutamos el siguiente codigo
 <img width="580" height="21" alt="image" src="https://github.com/user-attachments/assets/e85f197e-4d1c-4423-9862-0a1b47903614" />
-paso 6: ejecutamos luego el sigueinte codigo "ionic build" para generar un compilado de la aplicacion
+paso 6: ejecutamos luego el sigueinte codigo "ionic build" para generar un compilado de la aplicacion que nos generara una carpeta "www"
 <img width="454" height="25" alt="image" src="https://github.com/user-attachments/assets/7674a62f-fc20-4d7b-8050-592e9a267168" />
-
+paso 7: luego ejectuamos el comando npx cap add android nos generara otra carpeta
+<img width="259" height="193" alt="image" src="https://github.com/user-attachments/assets/f072fffe-d1ec-4cf9-a5e3-c4128d25e703" />
+paso 8: ingresamos a la pagina "Splash Screens and Icons", que nos dara el codigo de instalacion
+<img width="828" height="284" alt="image" src="https://github.com/user-attachments/assets/adfd7638-ff23-4d93-b8a9-ce990dc9983a" />
+paso 9:
 
 
