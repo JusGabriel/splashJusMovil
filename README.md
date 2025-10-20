@@ -11,7 +11,10 @@
 
 ## Paso 2: Instalar el plugin Splash Screen
 Dirígete a la página [Splash Screen Capacitor Plugin API] y ejecuta el siguiente comando en tu proyecto:
-<img width="832" height="279" alt="image" src="https://github.com/user-attachments/assets/40e392e5-dff5-4f77-b781-09897ccd7531" />
+<img src="https://github.com/user-attachments/assets/40e392e5-dff5-4f77-b781-09897ccd7531" 
+     alt="Paso 2" 
+     width="832" 
+     style="border:1px solid #000;" />
 
 ---
 
