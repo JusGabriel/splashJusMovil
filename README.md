@@ -2,7 +2,10 @@
 
 
 ## Paso 1: Crear un nuevo proyecto de Ionic
-<img width="933" height="467" alt="image" src="https://github.com/user-attachments/assets/84ba6002-2591-468e-9c64-6c1956d85aca" />
+<img src="https://github.com/user-attachments/assets/84ba6002-2591-468e-9c64-6c1956d85aca" 
+     alt="Paso 1" 
+     width="933" 
+     style="border:1px solid #000;" />
 
 ---
 
