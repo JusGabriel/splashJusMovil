@@ -1,5 +1,5 @@
 # Guía: Implementación de Splash Screen en Ionic
-
+## APK: app-debug.apk
 
 ## Paso 1: Crear un nuevo proyecto de Ionic
 <img src="https://github.com/user-attachments/assets/84ba6002-2591-468e-9c64-6c1956d85aca" 
